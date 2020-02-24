@@ -3,7 +3,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>
-DevopsFirst project 
+DevopsFirst project ... 
 </title>
 <style>
 /* The following tag selector body use the font-family and background-color properties for body of a page*/
